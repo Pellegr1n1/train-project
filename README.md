@@ -10,6 +10,7 @@ Este projeto implementa um sistema de controle para um trem, com a capacidade de
 ## 💻 Instalação
 
 1. Clone o repositório:
+   
    ```
     git clone https://github.com/Pellegr1n1/train-project.git
    ```
@@ -19,16 +20,19 @@ Este projeto implementa um sistema de controle para um trem, com a capacidade de
 1. **Executar o Trem**:
 
    Para iniciar o trem, execute o script principal:
-
+   ```python
    python main.py
+   ```
 
-2. **Executar Testes**:
+3. **Executar Testes**:
 
    Para garantir que tudo está funcionando corretamente, você pode executar os testes:
-
+   ```python
    cd tests\
    coverage run -m unittest discover \
    coverage report
+   ```
+   
 
 ## 🧪 Testes
 
