@@ -12,11 +12,7 @@ Este projeto implementa um sistema de controle para um trem, com a capacidade de
 1. Clone o repositório:
    ```
     git clone https://github.com/Pellegr1n1/train-project.git
-   
    ```
-3. Navegue até o diretório do projeto:
-
-   cd seu-repositorio
 
 ## 👨🏻💻 Uso
 
